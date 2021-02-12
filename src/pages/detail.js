@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Blogdetail from "../components/blogdetail"
+import Blogdetail from "../components/blogDetail"
 
 class Blogdetailpage extends Component {
   render() {
